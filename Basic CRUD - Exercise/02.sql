@@ -1,6 +1,2 @@
-SELECT 
-REPLACE(`title`, 'The', '***') AS 'title'
-FROM `books`
-
-WHERE `title` LIKE ('The%')
-ORDER BY id;
+SELECT name FROM departments
+ORDER BY department_id;

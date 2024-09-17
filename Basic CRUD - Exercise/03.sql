@@ -1,2 +1,2 @@
-SELECT ROUND(SUM(cost), 2) AS 'cost'
-FROM books;
+SELECT first_name, last_name, salary FROM employees 
+ORDER BY employee_id;

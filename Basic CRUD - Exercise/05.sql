@@ -1,5 +1,2 @@
-SELECT `title`
-FROM `books`
-
-WHERE SUBSTRING(`title`, 1, 12) = 'Harry Potter'
-ORDER BY `id`
+SELECT CONCAT(first_name, '.', last_name, '@softuni.bg') AS full_email_address
+FROM employees;

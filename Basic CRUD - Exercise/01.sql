@@ -1,4 +1,2 @@
-SELECT `title`
-FROM `books`
-WHERE SUBSTRING(`title`, 1, 3) = 'The'
-ORDER BY `id`
+SELECT * FROM departments
+ORDER BY department_id;
