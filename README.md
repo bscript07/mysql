@@ -10,3 +10,6 @@
 - Управление на релации в DB
 - Използване на процедури и функции
 - Създаване на базови Back-End архитектури
+
+  
+![mysql](https://github.com/user-attachments/assets/3da2d3dd-b598-472e-add2-a99cd279476c)
